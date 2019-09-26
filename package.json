@@ -1,7 +1,8 @@
 {
 	"name": "babel-plugin-import-react",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "inject-react.js",
 	"author": "Henrique Borges <henriqueborgeshbr@gmail.com>",
-	"license": "MIT"
+	"license": "MIT",
+	"types": "inject-react.d.ts"
 }
