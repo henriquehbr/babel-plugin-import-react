@@ -1,3 +1,4 @@
+declare const React: any
 declare const useState: Function
 declare const useEffect: Function
 declare const useContext: Function
