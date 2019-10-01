@@ -1,11 +1,11 @@
-declare const React: any
-declare const useState: Function
-declare const useEffect: Function
-declare const useContext: Function
-declare const useReducer: Function
-declare const useCallback: Function
-declare const useMemo: Function
-declare const useRef: Function
-declare const useImperativeHandle: Function
-declare const useLayoutEffect: Function
-declare const useDebugValue: Function
+export declare const React: any
+export declare const useState: Function
+export declare const useEffect: Function
+export declare const useContext: Function
+export declare const useReducer: Function
+export declare const useCallback: Function
+export declare const useMemo: Function
+export declare const useRef: Function
+export declare const useImperativeHandle: Function
+export declare const useLayoutEffect: Function
+export declare const useDebugValue: Function
