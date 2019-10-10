@@ -1,10 +1,10 @@
 {
 	"name": "babel-plugin-import-react",
-	"version": "1.0.3",
-	"main": "inject-react.js",
+	"version": "1.0.4",
+	"main": "./inject-react.js",
+	"types": "./react-hooks.d.ts",
 	"author": "Henrique Borges <henriqueborgeshbr@gmail.com>",
 	"license": "MIT",
-	"types": "./inject-react.d.ts",
 	"dependencies": {
 		"typescript": "^3.6.3"
 	}
